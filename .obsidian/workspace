@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal Organization/Viaje Chile.md",
+            "file": "Tag collection.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Organization/Viaje Chile.md",
+                "file": "Tag collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
   },
   "active": "3bcc8abea4c7f86b",
   "lastOpenFiles": [
+    "Tag collection.md",
     "Personal Organization/Viaje Chile.md",
     "Pasted image 20220424163702.png",
     "♦️ Task List - General.md",
@@ -116,7 +117,6 @@
     "Ω Calendar/Sunday, April 24th 2022.md",
     "Personal Organization/Carnivore and Parasites.md",
     "Personal Organization/N26 Italia.md",
-    "Personal Organization/People to Visit.md",
-    "Personal Organization/Self Hosted.md"
+    "Personal Organization/People to Visit.md"
   ]
 }
