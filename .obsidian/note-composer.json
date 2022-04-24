@@ -1,0 +1,5 @@
+{
+  "askBeforeMerging": true,
+  "template": "_Templates/New_Note",
+  "replacementText": "link"
+}

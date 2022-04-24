@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "baseFontSize": 30,
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
+}

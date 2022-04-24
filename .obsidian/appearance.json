@@ -1,0 +1,11 @@
+{
+  "theme": "moonstone",
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "baseFontSize": 32,
+  "enabledCssSnippets": [
+    "obsidian",
+    "tag_pills"
+  ],
+  "monospaceFontFamily": "FreeMono"
+}

@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "76266e3d65846f82",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bcc8abea4c7f86b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ω Calendar/Thursday, April 21st 2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "469251686c7a6015",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "03bc1b6aaa31d4c8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "8e66717845ddb0fd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cf34ef8fcc8cfcb0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6bf2ace9207e329e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7cfb935f709630e5",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "633a015e920064f0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Ω Calendar/Thursday, April 21st 2022.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "3bcc8abea4c7f86b",
+  "lastOpenFiles": [
+    "Ω Calendar/Thursday, April 21st 2022.md",
+    "People/Claudia de Maria.md",
+    "Tha Music/Classical Guitar.md",
+    "Personal Organization/Viaje Chile.md",
+    "♦️ Task List - General.md",
+    "Personal Organization/IRS Portugal.md",
+    "Personal Organization/Call a Person.md",
+    "Personal Organization/N26 Italia.md",
+    "Headings.md",
+    "Ω Calendar/Tuesday, April 19th 2022.md"
+  ]
+}

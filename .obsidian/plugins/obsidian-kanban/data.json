@@ -1,0 +1,10 @@
+{
+  "show-checkboxes": true,
+  "hide-tags-in-title": true,
+  "link-date-to-daily-note": true,
+  "prepend-archive-format": "DD-MMM-YY HH:mm",
+  "date-picker-week-start": 1,
+  "show-relative-date": true,
+  "hide-date-in-title": true,
+  "show-archive-all": false
+}

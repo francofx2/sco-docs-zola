@@ -1,0 +1,3 @@
+- [ ] [[Nacho Peinado]]
+- [ ] [[Ricardo Harrington]]
+- [ ] [[Jorge Rosasco]]

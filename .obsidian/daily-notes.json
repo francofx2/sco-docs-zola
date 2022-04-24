@@ -1,0 +1,6 @@
+{
+  "format": "dddd, MMMM Do YYYY",
+  "autorun": true,
+  "folder": "Ω Calendar",
+  "template": "ΩTemplates/My Templates/New_Daily_Note"
+}

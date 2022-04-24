@@ -1,0 +1,3 @@
+- Trini: Chilena, Parasitos, Carnviora
+- Amalia: Parasite cleanses
+- 

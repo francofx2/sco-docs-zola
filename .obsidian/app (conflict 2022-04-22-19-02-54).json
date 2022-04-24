@@ -1,0 +1,22 @@
+{
+  "monospaceFontFamily": "FreeMono",
+  "legacyEditor": true,
+  "livePreview": true,
+  "promptDelete": true,
+  "showLineNumber": true,
+  "foldHeading": false,
+  "vimMode": false,
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "fileSortOrder": "alphabeticalReverse",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "foldIndent": false,
+  "defaultViewMode": "preview"
+}

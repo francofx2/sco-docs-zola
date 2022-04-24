@@ -1,0 +1,10 @@
+{
+  "style": "number",
+  "min_depth": 3,
+  "max_depth": 3,
+  "externalStyle": "None",
+  "supportAllMatchers": false,
+  "allow_inconsistent_headings": false,
+  "title": "## Table of Contents",
+  "varied_style": false
+}

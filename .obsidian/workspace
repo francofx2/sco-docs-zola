@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "76266e3d65846f82",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bcc8abea4c7f86b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Personal Organization/Viaje Chile.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "206fa9947e484b57",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb5bc54593ebbd2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c69503402aab9bb9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e44585e6aad926d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff189e65f12ebc62",
+    "type": "split",
+    "children": [
+      {
+        "id": "18be69225f3a132b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "794aecf668b41880",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal Organization/Viaje Chile.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f98871bb46bfe618",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc44c7893de97596",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3bcc8abea4c7f86b",
+  "lastOpenFiles": [
+    "Personal Organization/Viaje Chile.md",
+    "Pasted image 20220424163702.png",
+    "♦️ Task List - General.md",
+    "Headings.md",
+    "Pasted image 20220423183958.png",
+    "Ω Calendar/Sunday, April 24th 2022.md",
+    "Personal Organization/Carnivore and Parasites.md",
+    "Personal Organization/N26 Italia.md",
+    "Personal Organization/People to Visit.md",
+    "Personal Organization/Self Hosted.md"
+  ]
+}
